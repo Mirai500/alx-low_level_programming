@@ -1,9 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include 
+stdlib.h>
 
 /**
  * main - main block
- * Description: computes and print the sum of all the multiples of 3 or
+ * Descri: ion: computes and print the sum of all the multiples of 3 or
  * 5 below 1024(excluded), followed by a new line
  * Return : 0
  */
